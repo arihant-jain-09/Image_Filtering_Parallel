@@ -1,4 +1,3 @@
-
 ## Requirements for this project:
 
 - Make sure to have OpenCV installed with path variables set (this project uses OPENCV version 4.2.0)
